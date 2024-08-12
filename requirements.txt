@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+numpy
+scikit-learn
+missingno
+openpyxl  # Nécessaire pour lire les fichiers Excel
