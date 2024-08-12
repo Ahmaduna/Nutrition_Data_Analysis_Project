@@ -5,7 +5,6 @@ This project analyzes the USDA National Nutrient Database to explore nutrient co
 ## Structure
 
 - `data/`: Contains the original dataset in Excel format.
-- `notebooks/`: Jupyter notebook for exploratory data analysis.
 - `src/`: Python scripts for data analysis.
 - `requirements.txt`: List of Python packages required to run the project.
 
